@@ -1,2 +1,2 @@
 # Go
-Repositório destinado para o meu aprendizado em Go
+Repositório destinado ao meu aprendizado em Go
